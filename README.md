@@ -17,5 +17,5 @@
 
 ### Troubleshooting
 Common Unable to Connect to GitHub.com error:
-Your system is probably behind firewall, run 
-git config --global url."https://".insteadOf git://
+Your system is probably behind firewall, run --
+$ git config --global url."https://".insteadOf git://
