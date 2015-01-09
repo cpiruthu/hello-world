@@ -14,3 +14,8 @@
 
 [git-github]: http://help.github.com/set-up-git-redirect
 [node-download]: http://nodejs.org/download/
+
+### Troubleshooting
+Common Unable to Connect to GitHub.com error:
+Your system is probably behind firewall, run 
+git config --global url."https://".insteadOf git://
