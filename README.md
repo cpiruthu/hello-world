@@ -11,3 +11,6 @@
 
 - Get [Node.js][node-download].
 - Install the tool dependencies (`npm install`).
+
+[git-github]: http://help.github.com/set-up-git-redirect
+[node-download]: http://nodejs.org/download/
