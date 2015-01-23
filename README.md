@@ -1,5 +1,6 @@
 # hello-world
 - Using bower / grunt
+
 ## Prerequisites
 
 ### Git
